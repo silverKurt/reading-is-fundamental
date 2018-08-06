@@ -2,15 +2,16 @@ package dao;
 
 import apoio.ConexaoBD;
 import apoio.IDAO;
-import entidades.alunos;
+import entidades.Aluno;
+
 
 import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.ArrayList;
 
-public class AlunosDAO implements IDAO<alunos> {
+public class AlunosDAO implements IDAO<Aluno> {
     @Override
-    public String salvar(alunos al) {
+    public String salvar(Aluno al) {
         try {
             Statement st = ConexaoBD.getInstance().getConnection().createStatement();
 
@@ -22,7 +23,7 @@ public class AlunosDAO implements IDAO<alunos> {
                     + "'" + al.getTelefone() + "',"
                     + "'" + al.getSexo() + "',"
                     + "'" + al.getEmail() + "',"
-                    + " " + al.getId_cidade() + ", "
+                    + " " + al.getCidade() + ", "
                     + " 'a', "
                     + "'" + al.getRua() + "' "
                     + ")";
@@ -43,7 +44,7 @@ public class AlunosDAO implements IDAO<alunos> {
     }
 
     @Override
-    public String atualizar(alunos al) {
+    public String atualizar(Aluno al) {
         try {
 
             Statement st = ConexaoBD.getInstance().getConnection().createStatement();
@@ -55,7 +56,7 @@ public class AlunosDAO implements IDAO<alunos> {
                     + "telefone = '" + al.getTelefone() + "',"
                     + "sexo = '" + al.getSexo() + "',"
                     + "email = '" + al.getEmail() + "',"
-                    + "id_cidade = " + al.getId_cidade() + ","
+                    + "cidade = " + al.getCidade() + ","
                     + "rua = '" + al.getRua() + "' "
                     + "where id = " + al.getId();
 
@@ -127,17 +128,17 @@ public class AlunosDAO implements IDAO<alunos> {
     }
 
     @Override
-    public ArrayList<alunos> consultarTodos() {
+    public ArrayList<Aluno> consultarTodos() {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
     @Override
-    public boolean registroUnico(alunos o) {
+    public boolean registroUnico(Aluno o) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
     @Override
-    public ArrayList<alunos> consultar(String criterio) {
+    public ArrayList<Aluno> consultar(String criterio) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
@@ -153,7 +154,7 @@ public class AlunosDAO implements IDAO<alunos> {
             ResultSet resultado = st.executeQuery(sql);
 
             if (resultado.next()) {
-                alunos al = new alunos();
+                Aluno al = new Aluno();
 
                 al.setId(id);
                 al.setNome(resultado.getString("nome"));
@@ -162,7 +163,7 @@ public class AlunosDAO implements IDAO<alunos> {
                 al.setTelefone(resultado.getString("telefone"));
                 al.setSexo(resultado.getString("sexo").charAt(0));
                 al.setEmail(resultado.getString("email"));
-                al.setId_cidade(Integer.parseInt(resultado.getString("id_cidade")));
+                al.setCidade(resultado.getString("cidade"));
                 al.setRua(resultado.getString("rua"));
                 return al;
             } else {
@@ -176,7 +177,7 @@ public class AlunosDAO implements IDAO<alunos> {
     }
 
     @Override
-    public boolean consultar(alunos o) {
+    public boolean consultar(Aluno o) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 

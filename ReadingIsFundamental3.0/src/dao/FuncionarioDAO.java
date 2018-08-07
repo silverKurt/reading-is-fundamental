@@ -91,7 +91,7 @@ public class FuncionarioDAO implements IDAO<Funcionario> {
 
             Statement st = ConexaoBD.getInstance().getConnection().createStatement();
 
-            String sql = "SELECT * FROM Funcionario "
+            String sql = "SELECT * FROM funcionarios "
                     + "WHERE email = '" + a + "' AND senha = '" + b + "' AND status = 'a' ORDER BY id";
             ResultSet resultado = st.executeQuery(sql);
             if (resultado.next()) {

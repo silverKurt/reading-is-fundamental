@@ -56,8 +56,12 @@ public class Filtro extends HttpServlet implements Filter {
     public void init(FilterConfig filterConfig) throws ServletException {
         //urls.add("/ReadingIsFundamentalWeb/");
         //urls.add("/ReadingIsFundamentalWeb/acao");
+        urls.add("/AcaoFuncionario");
         urls.add("/index.jsp");
         urls.add("/login.jsp");
+        urls.add("/menu.jsp");
+
+
     }
 
     @Override

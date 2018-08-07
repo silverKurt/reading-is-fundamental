@@ -12,9 +12,9 @@
 <body>
 
 <div class="container">
-    <form name="login" action="/ReadingIsFundamentalWeb/acao?parametro=login" method="post" class="form-signin">
+    <form name="login" action="/AcaoFuncionario?parametro=login" method="post" class="form-signin">
 
-        <h2 class="form-signin-heading">Autenticação</h2>
+        <h2>Autenticação</h2>
 
         <label>Login</label><br>
         <input type="email" name="email" placeholder="Endereço de e-mail" class="form-control" id="inputEmail" required autofocus value="">

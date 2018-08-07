@@ -6,8 +6,15 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b64ff249-12ed-482c-b991-9c3062749c86" name="Default Changelist" comment="">
+    <list default="true" id="5d1fb062-4666-432f-8d58-c52830ddbae5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadingIsFundamental3.0/ReadingIsFundamental3.0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ReadingIsFundamental3.0/ReadingIsFundamental3.0.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadingIsFundamental3.0/src/apoio/ConexaoBD.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReadingIsFundamental3.0/src/apoio/ConexaoBD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadingIsFundamental3.0/src/dao/FuncionarioDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReadingIsFundamental3.0/src/dao/FuncionarioDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadingIsFundamental3.0/src/servlet/AcaoFuncionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReadingIsFundamental3.0/src/servlet/AcaoFuncionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadingIsFundamental3.0/src/servlet/Filtro.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReadingIsFundamental3.0/src/servlet/Filtro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadingIsFundamental3.0/web/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ReadingIsFundamental3.0/web/login.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,77 +24,80 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-256936473">
+    <session id="-1353934530">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.27" value="2" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="iml" value="1" />
-          <entry key="java" value="4" />
-          <entry key="jsp" value="4" />
-          <entry key="xml" value="7" />
+          <entry key="java" value="6" />
+          <entry key="jsp" value="3" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="4" />
-          <entry key="JSP" value="4" />
-          <entry key="XML" value="7" />
+          <entry key="JAVA" value="6" />
+          <entry key="JSP" value="3" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="14" />
-          <entry key="jsp" value="31" />
-          <entry key="txt" value="31" />
+          <entry key="java" value="90" />
+          <entry key="jsp" value="49" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="14" />
-          <entry key="JSP" value="31" />
-          <entry key="PLAIN_TEXT" value="31" />
+          <entry key="JAVA" value="90" />
+          <entry key="JSP" value="49" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/web/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/src/servlet/Filtro.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="195">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1693#1694#0" expanded="true" />
-                <element signature="e#1735#1736#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/web/login.jsp">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/src/controle/ControlaFuncionarios.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="57" lean-forward="true" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+            <state relative-caret-position="653">
+              <caret line="50" column="24" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/.idea/artifacts/ReadingIsFundamental3_0_war_exploded.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/src/dao/FuncionarioDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="107" column="20" selection-start-line="107" selection-start-column="20" selection-end-line="107" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -95,24 +105,42 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/src/servlet/AcaoFuncionario.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="57" column="60" lean-forward="true" selection-start-line="57" selection-start-column="60" selection-end-line="57" selection-end-column="60" />
+            <state relative-caret-position="375">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/src/entidades/Funcionario.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/ReadingIsFundamental3.0.iml">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/src/apoio/db.properties">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/src/apoio/ConexaoBD.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="72" column="1" lean-forward="true" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/web/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/web/login.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="47" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -120,7 +148,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Jsp File" />
       </list>
     </option>
@@ -132,8 +159,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/ReadingIsFundamental3.0/web/login.jsp" />
-        <option value="$PROJECT_DIR$/ReadingIsFundamental3.0/web/index.jsp" />
+        <option value="$PROJECT_DIR$/ReadingIsFundamental3.0/src/dao/FuncionarioDAO.java" />
+        <option value="$PROJECT_DIR$/ReadingIsFundamental3.0/web/erro.jsp" />
+        <option value="$PROJECT_DIR$/ReadingIsFundamental3.0/web/menu.jsp" />
         <option value="$PROJECT_DIR$/ReadingIsFundamental3.0/src/servlet/Filtro.java" />
+        <option value="$PROJECT_DIR$/ReadingIsFundamental3.0/src/servlet/AcaoFuncionario.java" />
+        <option value="$PROJECT_DIR$/ReadingIsFundamental3.0/src/apoio/ConexaoBD.java" />
       </list>
     </option>
   </component>
@@ -150,12 +181,6 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
@@ -170,6 +195,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,7 +212,25 @@
             <path>
               <item name="reading-is-fundamental" type="b2602c69:ProjectViewProjectNode" />
               <item name="ReadingIsFundamental3.0" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reading-is-fundamental" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReadingIsFundamental3.0" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reading-is-fundamental" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReadingIsFundamental3.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="apoio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reading-is-fundamental" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReadingIsFundamental3.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="controle" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="reading-is-fundamental" type="b2602c69:ProjectViewProjectNode" />
@@ -208,19 +253,17 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/blue-feather/Documentos/reading-is-fundamental/ReadingIsFundamental3.0/web/index.jsp&#10;login&#9;PSI&#9;JAVA://entidades.Funcionario#login" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533611790281" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533662905545" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Downloads/postgresql-42.2.4.jre6.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -237,9 +280,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Tomcat 8.5.32" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.32" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
-      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
-      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
+    <configuration name="Tomcat 8.5.32" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.32" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="/opt/java/jdk-10.0.2">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="ReadingIsFundamental3.0:war exploded">
@@ -249,7 +290,7 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_reading-is-fundamental_3" />
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_reading-is-fundamental" />
       </server-settings>
       <predefined_log_file id="Tomcat" enabled="true" />
       <predefined_log_file id="Tomcat Catalina" enabled="true" />
@@ -257,7 +298,7 @@
       <predefined_log_file id="Tomcat Host Manager" enabled="false" />
       <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="38105" />
+        <option name="DEBUG_PORT" value="35991" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -316,70 +357,54 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b64ff249-12ed-482c-b991-9c3062749c86" name="Default Changelist" comment="" />
-      <created>1533596186067</created>
+      <changelist id="5d1fb062-4666-432f-8d58-c52830ddbae5" name="Default Changelist" comment="" />
+      <created>1533645319328</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1533596186067</updated>
-      <workItem from="1533596187770" duration="648000" />
-      <workItem from="1533596892712" duration="611000" />
-      <workItem from="1533597861406" duration="2482000" />
+      <updated>1533645319328</updated>
+      <workItem from="1533645321185" duration="6307000" />
     </task>
-    <task id="LOCAL-00001" summary="EliminandoPastaOut">
-      <created>1533598416714</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1533598416714</updated>
-    </task>
-    <task id="LOCAL-00002" summary="CriandoLogin">
-      <created>1533611722853</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1533611722853</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3741000" />
+    <option name="totallyTimeSpent" value="6307000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1366" height="741" extended-state="6" />
+    <frame x="-1" y="0" width="1602" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25757575" />
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="Learn" />
+      <window_info id="Web" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24967825" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" weight="0.32934928" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32934928" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3133117" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32536522" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32954547" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32954547" />
-      <window_info anchor="bottom" id="Java Enterprise" order="11" />
-      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Maven Projects" order="1" weight="0.32954547" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -388,82 +413,105 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="EliminandoPastaOut" />
-    <MESSAGE value="CriandoLogin" />
-    <option name="LAST_COMMIT_MESSAGE" value="CriandoLogin" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/src/servlet/AcaoAlunos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/ReadingIsFundamental3.0.iml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/web/menu.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/out/artifacts/ReadingIsFundamental3_0_war_exploded/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/out/artifacts/ReadingIsFundamental3_0_war_exploded/index.jsp">
+    <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/web/erro.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/src/entidades/Funcionario.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/.idea/artifacts/ReadingIsFundamental3_0_war_exploded.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/src/servlet/AcaoFuncionario.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="57" column="60" lean-forward="true" selection-start-line="57" selection-start-column="60" selection-end-line="57" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/src/servlet/Filtro.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1693#1694#0" expanded="true" />
-            <element signature="e#1735#1736#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/web/login.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="57" lean-forward="true" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+        <state relative-caret-position="165">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="47" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/src/dao/FuncionarioDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="107" column="20" selection-start-line="107" selection-start-column="20" selection-end-line="107" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="227" column="71" selection-start-line="227" selection-start-column="71" selection-end-line="227" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/src/controle/ControlaFuncionarios.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="653">
+          <caret line="50" column="24" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/.idea/artifacts/ReadingIsFundamental3_0_war_exploded.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/src/servlet/AcaoFuncionario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/src/apoio/ConexaoBD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="72" column="1" lean-forward="true" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/src/apoio/db.properties">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
@@ -496,6 +544,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>postgresql-42.2.4.jre6</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -507,7 +556,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>10</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -532,7 +581,7 @@
       </state>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>10</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -544,6 +593,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Java EE 6-Java EE 6</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

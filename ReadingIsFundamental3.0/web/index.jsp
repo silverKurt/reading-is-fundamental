@@ -12,5 +12,6 @@
   </head>
   <body>
   Vamos Lá!
+  <%response.sendRedirect("login.jsp");%>
   </body>
 </html>

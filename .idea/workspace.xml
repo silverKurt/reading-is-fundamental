@@ -8,8 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b64ff249-12ed-482c-b991-9c3062749c86" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReadingIsFundamental3.0/src/servlet/Filtro.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReadingIsFundamental3.0/src/servlet/Filtro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReadingIsFundamental3.0/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ReadingIsFundamental3.0/web/index.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,23 +44,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="10" />
+          <entry key="java" value="14" />
           <entry key="jsp" value="31" />
-          <entry key="txt" value="19" />
+          <entry key="txt" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10" />
+          <entry key="JAVA" value="14" />
           <entry key="JSP" value="31" />
-          <entry key="PLAIN_TEXT" value="19" />
+          <entry key="PLAIN_TEXT" value="31" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
@@ -74,8 +72,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/src/servlet/Filtro.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1693#1694#0" expanded="true" />
@@ -85,11 +83,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/web/login.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="26" column="56" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
+            <state relative-caret-position="240">
+              <caret line="16" column="57" lean-forward="true" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -134,8 +132,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/ReadingIsFundamental3.0/web/login.jsp" />
-        <option value="$PROJECT_DIR$/ReadingIsFundamental3.0/src/servlet/Filtro.java" />
         <option value="$PROJECT_DIR$/ReadingIsFundamental3.0/web/index.jsp" />
+        <option value="$PROJECT_DIR$/ReadingIsFundamental3.0/src/servlet/Filtro.java" />
       </list>
     </option>
   </component>
@@ -219,7 +217,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/blue-feather/Documentos/reading-is-fundamental/ReadingIsFundamental3.0/web/index.jsp&#10;login&#9;PSI&#9;JAVA://entidades.Funcionario#login" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533611614364" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533611790281" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -325,7 +323,7 @@
       <updated>1533596186067</updated>
       <workItem from="1533596187770" duration="648000" />
       <workItem from="1533596892712" duration="611000" />
-      <workItem from="1533597861406" duration="2185000" />
+      <workItem from="1533597861406" duration="2482000" />
     </task>
     <task id="LOCAL-00001" summary="EliminandoPastaOut">
       <created>1533598416714</created>
@@ -334,11 +332,18 @@
       <option name="project" value="LOCAL" />
       <updated>1533598416714</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="CriandoLogin">
+      <created>1533611722853</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1533611722853</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3444000" />
+    <option name="totallyTimeSpent" value="3741000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1366" height="741" extended-state="6" />
@@ -385,7 +390,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="EliminandoPastaOut" />
-    <option name="LAST_COMMIT_MESSAGE" value="EliminandoPastaOut" />
+    <MESSAGE value="CriandoLogin" />
+    <option name="LAST_COMMIT_MESSAGE" value="CriandoLogin" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/web/WEB-INF/web.xml">
@@ -426,25 +432,6 @@
     <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/src/servlet/Filtro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1693#1694#0" expanded="true" />
-            <element signature="e#1735#1736#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/web/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="26" column="56" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/src/servlet/AcaoFuncionario.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
@@ -456,6 +443,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/src/servlet/Filtro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1693#1694#0" expanded="true" />
+            <element signature="e#1735#1736#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadingIsFundamental3.0/web/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="57" lean-forward="true" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
         </state>
       </provider>
     </entry>
